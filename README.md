@@ -1,4 +1,4 @@
-<h1 align="center"> Jerry Luo 👋 </h1>
+<h1 align="center"> Hi! I'm Jerry 👋 </h1>
 <h3 align="center">CS Student @ UW-Madison</h3>
 
 
